@@ -1,7 +1,7 @@
-I dont wanna look through licenses so im writing my own
+I don't want to look through licenses so I'm writing my own
 
-1. Don't make any money off of this
-2. Add a link in index.html to my github pages if you use it
-3. If your name begins with "I" and ends in "saac sissons" you cannot use these assets
-4. You can copy (this not for commerical use)
-5. DO NOT AND I REPEAT DO NOT UNPACKAGE MY GAMES. BY THIS LICENSE, IF YOU UNPACKAGE THE PROJECTS I AM ENTITLED TO ALL MONEY IN YOUR BANK ACCOUNT
+1. This project is not for commercial use
+2. Credit me by adding a link in index.html to my github pages if you use this project
+3. If your name begins with "I" and ends in "saac sissons" you may not use these assets
+4. You are allowed to fork this code (provided you follow the other terms)
+5. YOU MAY NOT DECOMPILE MY GAMES. BY THIS LICENSE, IF YOU DECOMPILE THE GAMES I AM ENTITLED TO ALL MONEY IN YOUR BANK ACCOUNT
